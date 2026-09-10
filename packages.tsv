@@ -2,3 +2,4 @@
 tclpkg-hello	vicmay/tclpkg-hello	1.0.0	A tiny example Tcl package for tclpkg
 tclpkg-test-D56W1o	vicmay/tclpkg-test-D56W1o	0.9.1	A test package for tclpkg
 tclpkg-dep-8pPzNF	vicmay/tclpkg-dep-8pPzNF	0.1.0	A tclpkg dep test package
+tclpkg-noidx-VIjsb8	vicmay/tclpkg-noidx-VIjsb8	0.1.0	A tclpkg pkgIndex autogen test
