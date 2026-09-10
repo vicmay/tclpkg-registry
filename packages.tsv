@@ -1,3 +1,4 @@
 # name	repo	version	description
 tclpkg-hello	vicmay/tclpkg-hello	1.0.0	A tiny example Tcl package for tclpkg
 tclpkg-test-NDFD40	vicmay/tclpkg-test-NDFD40	0.9.1	A test package for tclpkg
+tclpkg-dep-165XjL	vicmay/tclpkg-dep-165XjL	0.1.0	A tclpkg dep test package
