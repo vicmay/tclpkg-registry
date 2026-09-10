@@ -1,4 +1,3 @@
 # name	repo	version	description
 tclpkg-hello	vicmay/tclpkg-hello	1.0.0	A tiny example Tcl package for tclpkg
-tclpkg-test-ERYrjf	vicmay/tclpkg-test-ERYrjf	0.9.1	A test package for tclpkg
 tclpkg-dep-LfunEw	vicmay/tclpkg-dep-LfunEw	0.1.0	A tclpkg dep test package
