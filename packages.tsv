@@ -1,4 +1,3 @@
 # name	repo	version	description
 tclpkg-hello	vicmay/tclpkg-hello	1.0.0	A tiny example Tcl package for tclpkg
-tclpkg-test-z9k3s6	vicmay/tclpkg-test-z9k3s6	0.9.1	A test package for tclpkg
 tclpkg-dep-Hdf5cU	vicmay/tclpkg-dep-Hdf5cU	0.1.0	A tclpkg dep test package
